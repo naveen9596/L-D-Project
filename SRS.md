@@ -1,5 +1,5 @@
-## Software Requirements Specification (SRS)
-# 1. Introduction
+# Software Requirements Specification (SRS)
+## 1. Introduction
 # 1.1 Purpose
 The purpose of this document is to provide a detailed description of the Learning and Development (L&D) App. It will outline the application's functionality, features, and constraints to ensure all stakeholders have a clear understanding of the system.
 

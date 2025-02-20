@@ -82,8 +82,106 @@ The system shall use RESTful APIs for communication with external systems.
 Chatbot: An AI-based system that interacts with users through text or voice.
 RESTful API: An API that adheres to the principles of Representational State Transfer.
 # 4.2 Analysis Models
-Use Case Diagrams
-Sequence Diagrams
+
+# Use Case Diagrams
++---------------------+
+|      Learner        |
++---------------------+
+          |
+          | 1. Register/Login
+          |
+          v
++---------------------+
+|  L&D Application    |
++---------------------+
+          |
+          | 2. Access Learning Materials
+          |
+          v
++---------------------+
+| Learning Materials  |
++---------------------+
+          |
+          | 3. Track Progress
+          |
+          v
++---------------------+
+|  Progress Tracker   |
++---------------------+
+          |
+          | 4. Chatbot Assistance
+          |
+          v
++---------------------+
+|      Chatbot        |
++---------------------+
+          |
+          | 5. Manage Content (Admin)
+          |
+          v
++---------------------+
+|      Admin          |
++---------------------+
+## Sequence Diagrams
+## Sequence Diagram for User Registration and Login:
+
+Learner          L&D Application          Authentication System
+   |                    |                           |
+   |----Register/Login-->|                           |
+   |                    |----Validate Credentials--->|
+   |                    |<---Validation Result-------|
+   |<---Login Success/Failure--|                     |
+   |                    |                           |
+
+
+## Sequence Diagram for Accessing Learning Materials
+
+Learner          L&D Application          Learning Materials
+   |                    |                           |
+   |----Request Materials-->|                       |
+   |                    |----Fetch Materials------->|
+   |                    |<---Materials List---------|
+   |<---Display Materials--|                       |
+   |                    |                           |
+
+## Sequence Diagram for Tracking Progress
+
+Learner          L&D Application          Progress Tracker
+   |                    |                           |
+   |----Complete Material-->|                       |
+   |                    |----Update Progress------->|
+   |                    |<---Progress Updated-------|
+   |<---Display Progress--|                       |
+   |                    |                           |
+
+   # Sequence Diagram for Chatbot Assistance
+
+Learner          L&D Application          Chatbot
+   |                    |                           |
+   |----Request Assistance-->|                      |
+   |                    |----Process Request------->|
+   |                    |<---Response---------------|
+   |<---Display Response--|                       |
+   |                    |                           |
+
+# Sequence Diagram for Admin Managing Content
+
+Admin            L&D Application          Content Management
+   |                    |                           |
+   |----Add/Edit/Delete Content-->|                 |
+   |                    |----Update Content-------->|
+   |                    |<---Content Updated--------|
+   |<---Display Update Status--|                   |
+   |                    |                           |
+
+
+
+
+   
+
+
+
+   
 # 4.3 Issues List
 Pending decisions on specific chatbot technology.
 Integration with existing organizational systems.

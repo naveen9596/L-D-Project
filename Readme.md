@@ -1,6 +1,5 @@
 ### **Project Idea: AI-Driven Learning Compliance Automation System**  
 
-#### **Project Title:** **LearnGuard AI – Smart Compliance Automation for L&D**  
 
 #### **Overview:**  
 LearnGuard AI is a **web-based AI-driven compliance automation platform** that ensures employees meet **learning and training requirements** in an IT organization. Built using **Angular, automation tools, and AI**, the platform monitors learning progress, sends automated reminders, generates compliance reports, and provides personalized learning recommendations.  

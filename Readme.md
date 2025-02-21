@@ -32,5 +32,3 @@ LearnGuard AI is a **web-based AI-driven compliance automation platform** that e
 - Reduces **manual errors** in tracking learning progress.  
 - Ensures **regulatory compliance** for IT organizations.  
 - Enhances **employee learning experience** with AI-driven recommendations.  
-
-Would you like additional customization or feature suggestions? 😊

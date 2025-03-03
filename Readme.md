@@ -1,6 +1,6 @@
 
-### Team Name: L & D Interstellar
-### Team Title: AI-Driven Learning Compliance Automation
+## Team Name: L & D Interstellar
+## Team Title: AI-Driven Learning Compliance Automation
 ## Team Members  : 
 1.Naveenkumar S (Sr.Technical trainer),
 2.Kishore Raja(UX/UI)

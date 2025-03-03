@@ -1,3 +1,28 @@
+
+### Team Name: L & D Interstellar
+### Team Title: AI-Driven Learning Compliance Automation
+## Team Members  : 
+1.Naveenkumar S (Sr.Technical trainer),
+2.Kishore Raja(UX/UI)
+3.Sibi Senthilkumar- Trainee(Secops-IAS),
+4.Swetha S -Trainee(D&A),
+5.Jeeva Aravinth-Trainee(D&A),
+6.HariGokul-Trainee (D&A),
+7.Pranav Shanker-Trainee(D&A),
+8.Manikandan Obulisamy-Trainee(Testing)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### **Project Idea: AI-Driven Learning Compliance Automation System**  
 
 
